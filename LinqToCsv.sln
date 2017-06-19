@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToCsv", "LinqToCsv\LinqToCsv.csproj", "{F7B09B86-93FE-4E39-8EA5-28C474F313E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToCsv.Tests", "LinqToCsv.Tests\LinqToCsv.Tests.csproj", "{B7A92710-2EB4-4FA3-BA50-6205CC5BCA5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F7B09B86-93FE-4E39-8EA5-28C474F313E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7B09B86-93FE-4E39-8EA5-28C474F313E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7B09B86-93FE-4E39-8EA5-28C474F313E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A92710-2EB4-4FA3-BA50-6205CC5BCA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A92710-2EB4-4FA3-BA50-6205CC5BCA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A92710-2EB4-4FA3-BA50-6205CC5BCA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A92710-2EB4-4FA3-BA50-6205CC5BCA5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
